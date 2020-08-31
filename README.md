@@ -3,4 +3,4 @@
 [code.jquery.com](https://code.jquery.com)
 =====================
 
-This branch runs on a regular basisq via Travis CI to uncover broken links and such.
+This branch runs on a regular basis via Travis CI to uncover broken links and such.
